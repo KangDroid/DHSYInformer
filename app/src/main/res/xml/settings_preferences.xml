@@ -33,4 +33,10 @@
         <intent android:action="com.example.kangdroid.myapplication.SchoolTeacherInfo"/>
     </PreferenceScreen>
 
+    <PreferenceScreen
+        android:key="kangdroid_school_club"
+        android:title="Club Introduction">
+        <intent android:action="com.example.kangdroid.myapplication.SchoolClubInfoActivity"/>
+    </PreferenceScreen>
+
 </PreferenceScreen>

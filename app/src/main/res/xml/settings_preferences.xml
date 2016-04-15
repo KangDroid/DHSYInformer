@@ -27,4 +27,10 @@
         <intent android:action="com.example.kangdroid.myapplication.SchoolEducationAim"/>
     </PreferenceScreen>
 
+    <PreferenceScreen
+        android:key="kangdroid_school_teachers"
+        android:title="School Teachers">
+        <intent android:action="com.example.kangdroid.myapplication.SchoolTeacherInfo"/>
+    </PreferenceScreen>
+
 </PreferenceScreen>

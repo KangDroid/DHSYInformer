@@ -41,6 +41,12 @@
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
+        <activity   android:name=".SchoolTeacherInfo" android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.example.kangdroid.myapplication.SchoolTeacherInfo" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
     </application>
 
 </manifest>

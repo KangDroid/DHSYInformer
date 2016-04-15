@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<PreferenceScreen
+   xmlns:android="http://schemas.android.com/apk/res/android">
+
+       <PreferenceScreen
+           android:title="Headmaster's greet"
+           android:key="headmaster_greet">
+           <intent android:action="com.example.kangdroid.myapplication.HeadInfoActivity"/>
+       </PreferenceScreen>
+
+    <PreferenceScreen
+        android:title="School History"
+        android:key="school_history">
+        <intent android:action="com.example.kangdroid.myapplication.SchoolHistoryActivity"/>
+    </PreferenceScreen>
+
+    <PreferenceScreen
+        android:key="kangdroid_school_symbol"
+        android:title="School Symbol">
+    <intent android:action="com.example.kangdroid.myapplication.SchoolSymbolPreference"/>
+    </PreferenceScreen>
+
+    <PreferenceScreen
+        android:key="kangdroid_school_aim"
+        android:title="School Aiming">
+        <intent android:action="com.example.kangdroid.myapplication.SchoolEducationAim"/>
+    </PreferenceScreen>
+
+</PreferenceScreen>

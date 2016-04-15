@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:id="@+id/imageView"
+        android:src="@drawable/ic_launcher"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="동해삼육고등학교 어플리케이션을 방문해 주셔서 감사합니다.\n삼육교육은 전인 교육입니다.\n지·덕·체의 균형진 발달을 통하여 사회에 봉사하는 일군을 양성하는 것을 목표로 하고 있습니다.\n우리학교의 교훈이 “진실”입니다.\n“인류의 가장 큰 결핍은 인물의 부족이다. 그 인물이란 매매되지 않는 사람, 심령이 진실하고 정직한 사람, 죄를 그대로 죄라고 부르기를 두려워하지 않는 사람, 마치 나침반의 바늘이 틀림없이 남북을 가리키듯이 양심이 그 의무에 충실한 사람, 비록 하늘이 무너질지라도 옳은 일을 위하여 굳게 서는 그런 사람들이다.”(교육 57 )\저는 우리 모두가 이 세상에서 나침반의 바늘처럼 바르게 살아가는 사람들이 되기를 소망합니다.\n그리고 우리는 매일 행복해야 합니다.\n우리 학교는 모두가 가르치는 것이 행복하고, 배우는 것이 행복하고, 친구와 사귀는 것이 행복하고, 그래서 설램과 기대로 매일을 시작하고 행복한 미소를 지으며 하루를 마감하는 목표를 가지고 있습니다.\n앞으로 자주 방문해 주시고 격려와 조언을 주시면 감사하겠습니다.\n감사합니다.\n\n동해삼육고등학교 교장 김 춘 근"
+        android:id="@+id/textView2"
+        android:layout_below="@+id/imageView"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+</RelativeLayout>

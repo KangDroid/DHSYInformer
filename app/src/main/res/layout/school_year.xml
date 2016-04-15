@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+<TableLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:stretchColumns="1"
+    >
+    <TableRow>
+        <TextView
+            android:text="1952.05.06"
+            android:textSize="18dp"
+            android:padding="10dp" />
+        <TextView
+            android:text="묵호삼육중학교 개교\n(초대교장 : 이용준)"
+            android:textSize="18dp"
+            android:padding="10dp" />
+    </TableRow>
+
+    <TableRow>
+        <TextView
+            android:text="1955.03.10"
+            android:textSize="18dp"
+            android:padding="10dp" />
+        <TextView
+            android:text="제 1회 중학교 졸업식 거행"
+            android:textSize="18dp"
+            android:padding="10dp" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:text="1955.09.25"
+            android:textSize="18dp"
+            android:padding="10dp" />
+        <TextView
+            android:text="부곡동 신축 교사 준공 이전"
+            android:textSize="18dp"
+            android:padding="10dp" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:text="1956.04.14"
+            android:textSize="18dp"
+            android:padding="10dp" />
+        <TextView
+            android:text="묵호삼육중학교를 영동삼육중학교로\n개칭"
+            android:textSize="18dp"
+            android:padding="10dp" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:text="1959.09.24"
+            android:textSize="18dp"
+            android:padding="10dp" />
+        <TextView
+            android:text="영동삼육중학교를 중동삼육중학교로\n개칭"
+            android:textSize="18dp"
+            android:padding="10dp" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:text="1961.12.12"
+            android:textSize="18dp"
+            android:padding="10dp" />
+        <TextView
+            android:text="중동삼육고등공민학교 설립인가\n(지령강요(문)제 114호)"
+            android:textSize="18dp"
+            android:padding="10dp" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:text="1967.11.20"
+            android:textSize="18dp"
+            android:padding="10dp" />
+        <TextView
+            android:text="신입생 90명\n(남 50명 여 40명) 으로 2 학급을 편성"
+            android:textSize="18dp"
+            android:padding="10dp" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:text="1968.03.04"
+            android:textSize="18dp"
+            android:padding="10dp" />
+        <TextView
+            android:text="신축 3개 교실 준공"
+            android:textSize="18dp"
+            android:padding="10dp" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:text="1969.10.31"
+            android:textSize="18dp"
+            android:padding="10dp" />
+        <TextView
+            android:text="묵호삼육중학교 권장 학교로 인가\n(문정 1040-2237)"
+            android:textSize="18dp"
+            android:padding="10dp" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:text="1970.09.28"
+            android:textSize="18dp"
+            android:padding="10dp" />
+        <TextView
+            android:text="동해시 천곡동 산 133-3 5223평\n이전 부지 매입"
+            android:textSize="18dp"
+            android:padding="10dp" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:text="1980.05.01"
+            android:textSize="18dp"
+            android:padding="10dp" />
+        <TextView
+            android:text="교사 이전 (천곡동 산 133-3)"
+            android:textSize="18dp"
+            android:padding="10dp" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:text="1981.04.17"
+            android:textSize="18dp"
+            android:padding="10dp" />
+        <TextView
+            android:text="묵호삼육중학교를 동해삼육중학교로\n개칭 (관리 1041, 4-3982)"
+            android:textSize="18dp"
+            android:padding="10dp" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:text="1981.06.30"
+            android:textSize="18dp"
+            android:padding="10dp" />
+        <TextView
+            android:text="신 교사 준공식\n(총 건평 275평 3층 21실)"
+            android:textSize="18dp"
+            android:padding="10dp" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:text="1981.11.25"
+            android:textSize="18dp"
+            android:padding="10dp" />
+        <TextView
+            android:text="동해삼육고등학교 설립 인가 (9학급)"
+            android:textSize="18dp"
+            android:padding="10dp" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:text="1982.03.01"
+            android:textSize="18dp"
+            android:padding="10dp" />
+        <TextView
+            android:text="동해삼육고등학교 개교"
+            android:textSize="18dp"
+            android:padding="10dp" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:text="1987.02.03"
+            android:textSize="18dp"
+            android:padding="10dp" />
+        <TextView
+            android:text="기숙사 신축 (2층, 86평)"
+            android:textSize="18dp"
+            android:padding="10dp" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:text="1994.09.26"
+            android:textSize="18dp"
+            android:padding="10dp" />
+        <TextView
+            android:text="신축 교사 준공 (870평)"
+            android:textSize="18dp"
+            android:padding="10dp" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:text="2010.02.11"
+            android:textSize="18dp"
+            android:padding="10dp" />
+        <TextView
+            android:text="제 56회 졸업식 (졸업생 누계 1231명)"
+            android:textSize="18dp"
+            android:padding="10dp" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:text="2011.09.01"
+            android:textSize="18dp"
+            android:padding="10dp" />
+        <TextView
+            android:text="마상무 교장 취임"
+            android:textSize="18dp"
+            android:padding="10dp" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:text="2011.10.25"
+            android:textSize="18dp"
+            android:padding="10dp" />
+        <TextView
+            android:text="생활관 신축 준공"
+            android:textSize="18dp"
+            android:padding="10dp" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:text="2013.02.14"
+            android:textSize="18dp"
+            android:padding="10dp" />
+        <TextView
+            android:text="고 30회 졸업식\n(졸업생 44명, 누계: 1354명)"
+            android:textSize="18dp"
+            android:padding="10dp" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:text="2013.10.16"
+            android:textSize="18dp"
+            android:padding="10dp" />
+        <TextView
+            android:text="교과교실 교사, 급식실, 화장실 준공"
+            android:textSize="18dp"
+            android:padding="10dp" />
+    </TableRow>
+    <TableRow>
+        <TextView
+            android:text="2014.03.03"
+            android:textSize="18dp"
+            android:padding="10dp" />
+        <TextView
+            android:text="김춘근 교장 취임"
+            android:textSize="18dp"
+            android:padding="10dp" />
+    </TableRow>
+    </TableLayout>
+    </ScrollView>
